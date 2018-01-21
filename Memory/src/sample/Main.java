@@ -97,7 +97,7 @@ public class Main extends Application {
             flow.getChildren().addAll(button);
         }
         if(ilosc==8) {
-            primaryStage.setScene(new Scene(flow, 510, 510));
+            primaryStage.setScene(new Scene(flow, 510, 510)); 
             primaryStage.show();
         }
         if(ilosc==12) {
